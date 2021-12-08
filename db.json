@@ -1,5 +1,11 @@
 {
-  "kodeMenu": "ABC", 
-  "namaMenu": "Nasi Goreng", 
-  "harga" : 15000
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
