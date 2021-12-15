@@ -4,6 +4,21 @@
       "kodeMenu": "food1",
       "namaMenu": "Nasi Goreng",
       "harga": 10000
+    },
+    {
+      "kodeMenu": "food3",
+      "namaMenu": "Nasi Bakar",
+      "harga": 9000
+    },
+    {
+      "kodeMenu": "food3",
+      "namaMenu": "Nasi Rebus",
+      "harga": 9500
+    },
+    {
+      "kodeMenu": "food4",
+      "namaMenu": "Nasi Panggang",
+      "harga": 13000
     }
   ],
   "profile": {
